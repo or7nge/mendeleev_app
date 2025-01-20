@@ -1,0 +1,16 @@
+{
+    "standart_state": "Standard state",
+    "group": "Block group",
+    "electronic_conf": "Electronic configuration",
+    "oxidation_states": "Oxidation states",
+    "usage": "Usage",
+    "discovery": "Discoverer",
+    "fact": "Interesting fact",
+    "guess": "Correct!",
+    "no_guess": "Revise",
+    "mendeleev": "Young Mendeleev",
+    "kalibrovka": "Solved to get a level",
+    "reset": "Reset",
+    "percents": "Performance:",
+    "logic_info": "You'll see chemical element symbols appear one at a time. Try to identify each element, then click to reveal its name. Press \"Guessed\" if you got it right, or \"Didn't guess\" if you weren't sure. Your results are tracked in your profile statistics."
+}
